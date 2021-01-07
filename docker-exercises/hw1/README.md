@@ -1,4 +1,4 @@
-ej4. He utilizado el puerto 80 en vez de 8080, dado que este último generaba ¨unhealthy¨ en todos los intentos realizados con las imagenes de nginx i elasticsearch.
+ej4. He utilizado el puerto 80 en vez de 8080, dado que este último generaba ¨unhealthy¨ en todos los intentos realizados con las imágenes de nginx y Elasticsearch.
 
     - Dockerfile: 
         FROM nginx:1.19.3

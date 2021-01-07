@@ -45,7 +45,7 @@
     </body>
     </html>
 
-    6. Acto seguido, remplazaremos el index.html del contenedor por el recien creado. Para ello, necesitaremos el identificador del contenedor:
+    6. Acto seguido, remplazaremos el index.html del contenedor por el recién creado. Para ello, necesitaremos el identificador del contenedor:
         - docker ps
         
         CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS              PORTS                  NAMES
@@ -54,4 +54,4 @@
     7. Una vez conocemos el identificador (10b17725fe2c), copiamos el fichero en su interior. 
         - docker cp index.html 10b17725fe2c:/usr/share/nginx/html/
 
-    8. al refrescar el navegador (control+F5) aparece el ttulo ¨HOMEWORK 1¨
+    8. al refrescar el navegador (control+F5) aparece el título ¨HOMEWORK 1¨
