@@ -14,6 +14,6 @@ ej4. He utilizado el puerto 80 en vez de 8080, dado que este último generaba ¨
 
     - docker ps
     CONTAINER ID   IMAGE      COMMAND                  CREATED              STATUS                          PORTS              NAMES
-    1c9eafd1a8bd   imageex4   "/docker-entrypoint.…"   About a minute ago   Up About a minute (unhealthy)   80/tcp, 8080/tcp   containerex4
+    f47f8b139226   imageex4   "/docker-entrypoint.…"   About a minute ago   Up About a minute (unhealthy)   80/tcp, 8080/tcp   containerex4
 
 
