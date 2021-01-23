@@ -14,9 +14,6 @@ la versión 2.0 sin impacto para los usuarios:
 
 Adjunta todos los ficheros para crear esta prueba de concepto.
 -----------------------------------------------------------------------
-https://medium.com/avmconsulting-blog/how-to-perform-health-checks-in-kubernetes-k8s-a4e5300b1f9d
-https://haproxy-ingress.github.io/docs/examples/blue-green/
------------------------------------------------------------------------
 
 * desplegamos los dos ficheros deployment.yaml, con la version blue
 

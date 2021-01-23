@@ -1,6 +1,5 @@
 -----------------------------------------------------------------------
 4. Crear un objeto de tipo deployment con las especificaciones del ejercicio 1.
-https://medium.com/@yankee.exe/how-rolling-and-rollback-deployments-work-in-kubernetes-8db4c4dce599
 -----------------------------------------------------------------------
 • Despliega una nueva versión de tu nuevo servicio mediante la técnica
 “recreate”

@@ -2,8 +2,6 @@
 3. Crea un objeto de tipo service para exponer la aplicación del ejercicio
 anterior de las siguientes formas:
 -----------------------------------------------------------------------
-https://medium.com/@jiamin_ning/build-your-first-kubernetes-service-with-replicaset-7c37d9be689c
------------------------------------------------------------------------
 • Exponiendo el servicio hacia el exterior (crea service1.yaml)
 -----------------------------------------------------------------------
 
